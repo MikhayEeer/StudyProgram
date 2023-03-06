@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Pip——Python的包管理工具.md",
+                "file": "命令工具/Git/Git的使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/JavaScript/javas.md",
+                "file": "命令工具/Git/Git的使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/JavaScript/javas.md",
+                "file": "命令工具/Git/Git的使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/JavaScript/javas.md"
+                "file": "命令工具/Git/Git的使用.md"
               }
             }
           }
@@ -207,14 +206,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d4bc965a4d594ac6",
+  "active": "c90d48822206e74d",
   "lastOpenFiles": [
-    "Java/java.md",
+    "命令工具/命令提示符/Windows常用CMD命令.md",
+    "Python/Pip——Python的包管理工具.md",
     "前端/JavaScript/javas.md",
+    "Java/java.md",
     "Go/go.md",
     "C++/指针.md",
     "Algorithm/牛客/牛客.md",
-    "Python/Pip——Python的包管理工具.md",
     "Algorithm/牛客",
     "命令工具/Git/Git的使用.md",
     "QT/qt 5.15.md",
@@ -223,7 +223,6 @@
     "Algorithm/Leecode/Leecode.md",
     "语法写作工具/LateX/LateX.md",
     "前端/HTML/HTML.md",
-    "命令工具/命令提示符/Windows常用CMD命令.md",
     "命令工具/CMake/CMake.md",
     "未命名.md",
     "DemoGit.md",
