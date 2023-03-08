@@ -4,76 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "be5771d953f58936",
+        "id": "62645996c4577de7",
         "type": "tabs",
         "children": [
           {
-            "id": "c90d48822206e74d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "命令工具/Git/Git的使用.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc72903ed65e4aaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/牛客/牛客.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbd2df1798fb01a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/指针.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "346ae231ff31dcf7",
+            "id": "1ebccbee8c26518b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Go/go.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be204b54a13fb7e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4bc965a4d594ac6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/JavaScript/javas.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "命令工具/Git/Git的使用.md",
+                "file": "Go/go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "命令工具/Git/Git的使用.md",
+                "file": "Go/go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "命令工具/Git/Git的使用.md"
+                "file": "Go/go.md"
               }
             }
           }
@@ -206,37 +146,43 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c90d48822206e74d",
+  "active": "9fb17ec08ba8f406",
   "lastOpenFiles": [
-    "命令工具/命令提示符/Windows常用CMD命令.md",
-    "Python/Pip——Python的包管理工具.md",
-    "前端/JavaScript/javas.md",
+    "与Chat GPT的聊天/聊聊编程.md",
+    "与Chat GPT的聊天/编程的底层知识.md",
+    "与Chat GPT的聊天/初次尝试了解ui.md",
+    "与Chat GPT的聊天",
     "Java/java.md",
-    "Go/go.md",
-    "C++/指针.md",
-    "Algorithm/牛客/牛客.md",
-    "Algorithm/牛客",
-    "命令工具/Git/Git的使用.md",
-    "QT/qt 5.15.md",
-    "DataBase/SQL sever/sql sever.md",
-    "DataBase/MySQL/mysql.md",
-    "Algorithm/Leecode/Leecode.md",
-    "语法写作工具/LateX/LateX.md",
-    "前端/HTML/HTML.md",
-    "命令工具/CMake/CMake.md",
-    "未命名.md",
-    "DemoGit.md",
-    "Test.md",
-    "语法写作工具",
-    "命令工具",
-    "Java",
-    "语法写作工具/Markdown/【转载】Markdown语法.md",
-    "命令工具/命令提示符/Linux.md",
-    "命令提示符/未命名",
-    "命令提示符/CMD",
-    "命令工具/命令提示符",
-    "命令工具/Git",
-    "命令工具/CMake",
-    "Go"
+    "C++/C++了解.md",
+    "Kotlin/kotlin.md",
+    "低级编程语言/机器语言/机器语言.md",
+    "低级编程语言/汇编语言/汇编.md",
+    "领域特定语言/R/R.md",
+    "低级编程语言/机器语言",
+    "低级编程语言/汇编语言",
+    "低级编程语言",
+    "领域特定语言/Matlab/Matlab.md",
+    "DataBase/SQL.md",
+    "Python/Chatgpt -API.md",
+    "DataBase/未命名",
+    "Perl",
+    "领域特定语言/R",
+    "领域特定语言/Matlab",
+    "领域特定语言",
+    "标记语言/Markdown/markdown extra.md",
+    "Go/go get.md",
+    "标记语言/LateX/LateX.md",
+    "标记语言/Markdown/【转载】Markdown语法.md",
+    "Kotlin/gradle -kotlin的包管理工具.md",
+    "Kotlin",
+    "前端/框架/spring.md",
+    "前端/框架/vue.md",
+    "CLI/网络工具/netcat.md",
+    "CLI/网络工具/curl.md",
+    "CLI/网络工具/ssh.md",
+    "CLI/网络工具/ping.md",
+    "CLI/Shell/powershell.md",
+    "CLI/Shell/Linux bash.md",
+    "前端/JavaScript/javas.md"
   ]
 }
