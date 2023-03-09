@@ -4,22 +4,91 @@
     "type": "split",
     "children": [
       {
-        "id": "62645996c4577de7",
+        "id": "8ed90b99959f2e43",
         "type": "tabs",
         "children": [
           {
-            "id": "1ebccbee8c26518b",
+            "id": "18971b168ae810a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/go.md",
+                "file": "一些提示.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8912f98dd87d936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go/go get.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f97a81d020f43a68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLI命令行/网络工具/curl.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49c33da93397b035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工具平台/Github/github的基础知识.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8754fc43840accc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLI命令行/Git/Git的使用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8d653235e3fa96e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7abd24b73722dbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/与Chat GPT的聊天/初次尝试了解ui.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go/go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +191,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Go/go.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,43 +211,43 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9fb17ec08ba8f406",
+  "active": "c8d653235e3fa96e",
   "lastOpenFiles": [
-    "与Chat GPT的聊天/聊聊编程.md",
-    "与Chat GPT的聊天/编程的底层知识.md",
-    "与Chat GPT的聊天/初次尝试了解ui.md",
-    "与Chat GPT的聊天",
-    "Java/java.md",
-    "C++/C++了解.md",
-    "Kotlin/kotlin.md",
-    "低级编程语言/机器语言/机器语言.md",
-    "低级编程语言/汇编语言/汇编.md",
-    "领域特定语言/R/R.md",
-    "低级编程语言/机器语言",
-    "低级编程语言/汇编语言",
-    "低级编程语言",
-    "领域特定语言/Matlab/Matlab.md",
-    "DataBase/SQL.md",
     "Python/Chatgpt -API.md",
-    "DataBase/未命名",
-    "Perl",
-    "领域特定语言/R",
-    "领域特定语言/Matlab",
-    "领域特定语言",
-    "标记语言/Markdown/markdown extra.md",
+    "Python/Pip——Python的包管理工具.md",
+    "Python/常用库",
+    "C++/QT/qt 5.15.md",
+    "C++/C++了解.md",
+    "CLI命令行/Git/Git的使用.md",
+    "工具平台/分布式系统/分布式系统简介.md",
+    "工具平台/Github/github的基础知识.md",
+    "工具平台/Github/Gitee.md",
+    "CLI命令行/网络工具/curl.md",
+    "基础知识/计算机网络/计算机网络.md",
     "Go/go get.md",
-    "标记语言/LateX/LateX.md",
+    "基础知识/计算机网络",
+    "基础知识/编码.md",
+    "AI/与Chat GPT的聊天/初次了解编码.md",
+    "AI/与Chat GPT的聊天/再谈编码.md",
+    "一些提示.md",
+    "基础知识",
+    "AI/NewBing/与NewBing聊天.md",
+    "工具平台/Github",
+    "设计/Premiere",
+    "设计/PhotoShop",
+    "设计",
+    "AI/与Chat GPT的聊天/初次尝试了解ui.md",
+    "AI/与Chat GPT的聊天/编程的底层知识.md",
+    "AI/NewBing",
+    "AI",
     "标记语言/Markdown/【转载】Markdown语法.md",
-    "Kotlin/gradle -kotlin的包管理工具.md",
-    "Kotlin",
-    "前端/框架/spring.md",
-    "前端/框架/vue.md",
-    "CLI/网络工具/netcat.md",
-    "CLI/网络工具/curl.md",
-    "CLI/网络工具/ssh.md",
-    "CLI/网络工具/ping.md",
-    "CLI/Shell/powershell.md",
-    "CLI/Shell/Linux bash.md",
-    "前端/JavaScript/javas.md"
+    "Python/常用库/Numpy 100练.md",
+    "Go/go.md",
+    "工具平台/Fiddler/Fiddler抓包.md",
+    "工具平台/Fiddler",
+    "README.md",
+    "AI/与Chat GPT的聊天/聊聊编程.md",
+    "Java/java.md",
+    "Kotlin/kotlin.md"
   ]
 }
